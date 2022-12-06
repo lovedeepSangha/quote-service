@@ -1,4 +1,4 @@
-package com.quotemedia.interview.quoteservice.controller;
+package com.quotemedia.interview.quoteservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
